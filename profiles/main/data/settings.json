@@ -1,0 +1,47 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "chat.agent.enabled": false,
+    "chat.checkpoints.enabled": false,
+    "chat.customAgentInSubagent.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "github.copilot.editor.enableAutoCompletions": false,
+    "inlineChat.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "workbench.commandPalette.experimental.askChatLocation": "none",
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "'FiraCode Nerd Font'",
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "claudeCode.preferredLocation": "panel",
+    "claudeQuota.sessionKey": "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",
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "claudeCode.initialPermissionMode": "acceptEdits",
+    "claudeCode.selectedModel": "opus",
+    "makefile.configureOnOpen": true,
+    "terminal.integrated.shellIntegration.enabled": true,
+    "remote.autoForwardPortsSource": "hybrid",
+    "json.schemaDownload.trustedDomains": {
+        "https://developer.microsoft.com/json-schemas/": true,
+        "https://json-schema.org/": true,
+        "https://json.schemastore.org/": true,
+        "https://models.dev": true,
+        "https://opencode.ai": true,
+        "https://raw.githubusercontent.com": true,
+        "https://raw.githubusercontent.com/devcontainers/spec/": true,
+        "https://raw.githubusercontent.com/microsoft/vscode/": true,
+        "https://schemastore.azurewebsites.net/": true,
+        "https://www.schemastore.org/": true
+    },
+    "python.analysis.typeCheckingMode": "strict",
+    "security.workspace.trust.startupPrompt": "always"
+}

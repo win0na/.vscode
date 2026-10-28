@@ -1,0 +1,48 @@
+builtin:
+  disabled:
+    - GitHub.copilot-chat
+    - ms-vscode.js-debug
+    - ms-vscode.vscode-js-profile-table
+    - TypeScriptTeam.jsts-chat-features
+    - vscode.configuration-editing
+    - vscode.css-language-features
+    - vscode.debug-auto-launch
+    - vscode.debug-server-ready
+    - vscode.emmet
+    - vscode.extension-editing
+    - vscode.git
+    - vscode.git-base
+    - vscode.github
+    - vscode.grunt
+    - vscode.gulp
+    - vscode.html-language-features
+    - vscode.ipynb
+    - vscode.jake
+    - vscode.json-language-features
+    - vscode.markdown-language-features
+    - vscode.markdown-math
+    - vscode.merge-conflict
+    - vscode.mermaid-markdown-features
+    - vscode.npm
+    - vscode.php-language-features
+    - vscode.references-view
+    - vscode.search-result
+    - vscode.terminal-suggest
+    - vscode.tunnel-forwarding
+    - vscode.typescript-language-features
+disabled:
+  - id: llvm-vs-code-extensions.lldb-dap
+    uuid: 8f0e51b3-cc69-4cf9-abab-97289d29d6de
+  - id: swiftlang.swift-vscode
+    uuid: a262b033-b635-48e5-a110-0882eedcc504
+enabled:
+  - id: arcticicestudio.nord-visual-studio-code
+    uuid: 6f35c257-7fd5-4bc2-9cd1-01976589c17a
+  - id: bbenoist.Nix
+    uuid: 5b21bd54-5258-4a3e-887f-193d9bb5f063
+  - id: ivhernandez.vscode-plist
+    uuid: b5aa9747-fe61-43fe-8641-69df47b9c777
+  - id: ms-vscode-remote.remote-wsl
+    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
